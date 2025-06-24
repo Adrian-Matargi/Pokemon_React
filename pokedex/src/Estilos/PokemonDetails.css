@@ -1,0 +1,29 @@
+.pokemon-details {
+  padding: 3rem 4rem;
+  text-align: center;
+  background-color: white;
+  margin: 3rem auto;
+  width: fit-content;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+
+.pokemon-details h2 {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  color: #ef5350;
+  text-transform: capitalize;
+}
+
+.pokemon-details img {
+  width: 250px;
+  height: 250px;
+  margin-bottom: 1.5rem;
+}
+
+.pokemon-details p {
+  font-size: 1.3rem;
+  margin: 0.7rem 0;
+  color: #555;
+  font-weight: 500;
+}
